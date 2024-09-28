@@ -1,4 +1,4 @@
-## Olá, sou o João Paulo, um apaixonado por  programação e tecnologia! 🫡
+## Olá, sou o João Paulo, um apaixonado por  programação e tecnologia!
 #### - 🔭 Sempre buscando oportunidades para expandir meu conhecimento e habilidades, tanto no âmbito intelectual quanto profissional e pessoal.
   <div>
     <h2><b>Linguagens:</b></h2>
